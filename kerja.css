@@ -1,0 +1,14 @@
+body {
+    background-image: url(nahi-da.jpg);
+    color: black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center top, center top;
+  }
+
+
+  .container {
+    margin-top: 20px;
+    background-color: rgba(17, 26, 37,0.8)  ;;
+  }
